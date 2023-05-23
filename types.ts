@@ -13,6 +13,7 @@ export type contactType = {
 };
 
 export type postType = {
+  id: string;
   title: string;
   body: string;
 };
